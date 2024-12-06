@@ -1,0 +1,15 @@
+{
+  "name": "Sample rule 1",
+  "criteria": [
+    {
+      "left": "name",
+      "right": "name",
+      "match": "fuzzy"
+    },
+    {
+      "left": "location",
+      "right": "location",
+      "match": "fuzzy"
+    }
+  ]
+}
